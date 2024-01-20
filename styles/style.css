@@ -25,15 +25,19 @@
 .logo {
   width: 137px;
 }
+
 .header_adress {
   grid-column: 4;
 }
+
 .header__link {
   border-bottom: solid 1px;
 }
+
 .header__link_active {
   border-bottom: none;
 }
+
 a {
   text-decoration: none;
 }
@@ -47,9 +51,11 @@ a {
   line-height: 24.3px;
   letter-spacing: 0.18px;
 }
+
 .adress_item {
   display: block;
 }
+
 .border_bottom {
   border-bottom: #000 1px solid;
 }
@@ -130,7 +136,7 @@ a {
   position: relative;
 }
 
-.cover__description-p {
+.cover__description-text {
   word-spacing: 19px;
   margin-top: 12px;
 }
@@ -167,7 +173,8 @@ a {
 
 .lots__card-list {
   display: flex;
-  margin: 0px 0px 0px 24px;
+  margin: 0px 0px 0px 23px;
+  flex-wrap: wrap;
 }
 
 .lost__cards-list-item {
@@ -291,7 +298,6 @@ a {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   margin: 146px 50px 88px 50px;
-  min-height: 121px;
   list-style-type: none;
 }
 
