@@ -1,6 +1,3 @@
-[https://github.com/mutaliev2008/ono-tebe-nado.git
-](https://github.com/mutaliev2008/ono-tebe-nado.git
-
 ## Оглавление
 
 Вёрстка сайта аукциона вещей, в которые никто не верил "Оно тебе надо"
