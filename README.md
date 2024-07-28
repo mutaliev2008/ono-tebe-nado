@@ -22,4 +22,3 @@
 ## Автор
 
 - Github - [MagaMutaliev](https://github.com/mutaliev2008)
-)
